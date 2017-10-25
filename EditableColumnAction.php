@@ -6,7 +6,7 @@
  * Time: 12:52
  */
 
-namespace bigdropinc\widgets;
+namespace bigdropinc\actions;
 
 use yii;
 use yii\base\Exception;
