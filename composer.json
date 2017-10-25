@@ -1,0 +1,22 @@
+{
+    "name": "bigdropinc/yii2-editable-column-action",
+    "description": "editable column action for yii2 grid view widget ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","gridView","widget","kartik","EditableColumn"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Bigdropinc",
+            "email": "php@bigdropinc.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "kartik-v/yii2-editable": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "bigdropinc\\": ""
+        }
+    }
+}
